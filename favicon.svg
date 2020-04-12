@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 54.1 (76490) - https://sketchapp.com -->
+    <title>Menubar Icon Copy 4</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Menubar-Icon-Copy-4" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group" transform="translate(0.000000, 15.000000)" fill="#272727" fill-rule="nonzero">
+            <rect id="Rectangle" x="0" y="0" width="5" height="2" rx="1"></rect>
+            <rect id="Rectangle-Copy" x="27" y="0" width="5" height="2" rx="1"></rect>
+        </g>
+        <g id="Group-Copy" transform="translate(16.000000, 16.000000) rotate(-45.000000) translate(-16.000000, -16.000000) translate(0.000000, 15.000000)" fill="#272727" fill-rule="nonzero">
+            <rect id="Rectangle" x="0" y="0" width="5" height="2" rx="1"></rect>
+            <rect id="Rectangle-Copy" x="27" y="0" width="5" height="2" rx="1"></rect>
+        </g>
+        <g id="Group-Copy-2" transform="translate(16.000000, 16.000000) rotate(-90.000000) translate(-16.000000, -16.000000) translate(0.000000, 15.000000)" fill="#272727" fill-rule="nonzero">
+            <rect id="Rectangle" x="0" y="0" width="5" height="2" rx="1"></rect>
+            <rect id="Rectangle-Copy" x="27" y="0" width="5" height="2" rx="1"></rect>
+        </g>
+        <g id="Group-Copy-3" transform="translate(16.000000, 16.000000) rotate(-135.000000) translate(-16.000000, -16.000000) translate(0.000000, 15.000000)" fill="#272727" fill-rule="nonzero">
+            <rect id="Rectangle" x="0" y="0" width="5" height="2" rx="1"></rect>
+            <rect id="Rectangle-Copy" x="27" y="0" width="5" height="2" rx="1"></rect>
+        </g>
+        <path d="M13.2453146,7.429391 C12.4540434,8.76900281 12,10.3314776 12,12 C12,16.9705627 16.0294373,21 21,21 C21.9608308,21 22.886495,20.8494339 23.7546854,20.570609 C22.1887433,23.2217286 19.3020404,25 16,25 C11.0294373,25 7,20.9705627 7,16 C7,11.9902681 9.6221888,8.59298111 13.2453146,7.429391 Z" id="Combined-Shape" fill="#272727" fill-rule="nonzero"></path>
+    </g>
+</svg>

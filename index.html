@@ -1,0 +1,102 @@
+<!doctype html>
+<html lang="en-us">
+
+<head>
+  <meta charset="utf-8">
+  <title>Dark Toggler</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="icon" type="image/svg" href="favicon.svg">
+
+  <style>
+  	* {
+  		box-sizing: border-box;
+  	}
+		html {
+		  line-height: 1.15;
+		  -webkit-text-size-adjust: 100%;
+		  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+		}
+		body {
+		  margin: 0;
+		  display: flex;
+		  flex-direction: column;
+		  background: rgb(52,55,100);
+			background: linear-gradient(0deg, rgba(138,94,202,1) 0%, rgba(52,55,100,1) 100%);
+			color: #eab8bc;
+			padding: 0 .5em;;
+		}
+		main {
+			text-align: center;
+			max-width: 24em;
+		}
+		h1 {
+		  font-size: 2.5em;
+		  margin: 0;
+		}
+		p {
+			color: #dfc8e9;
+		}
+		@media (min-width: 300px) {
+			html, body {
+				height: 100%;
+				min-height: 100%;
+			}
+			body {
+			  justify-content: center;
+			  align-items: center;
+			}
+			#logo-box {
+				display: flex;
+				flex-direction: row;
+				align-items: center;
+			}
+			#intro-copy {
+				font-size: 1.25em;
+			}
+		}
+		#download-button {
+			display: block;
+			padding: .75em;
+			margin: 1em;
+			border-radius: 10px;
+			border: 1px solid rgb(59,62,100);
+			color: #eab8bc;
+			background: rgb(52,55,100);
+			background: linear-gradient(0deg, rgba(52,55,100,1) 0%, rgba(138,94,202,1) 100%);
+			text-decoration: none;
+			font-size: 1.5em;
+			font-weight: bold;
+		}
+		#download-button:hover {
+			background: rgb(59,62,100);
+			background: linear-gradient(0deg, rgba(59,62,100,1) 0%, rgba(125,100,202,1) 100%);
+		}
+		#download-button:active {
+			background: rgb(45,48,100);
+			background: linear-gradient(0deg, rgba(125,100,202,1) 0%, rgba(59,62,100,1) 100%);
+		}
+  </style>
+</head>
+<body>
+	<main>
+		<div id="logo-box">
+		  <img id="logo" width="128" height="128" src="icon.png" />
+		  <h1>Dark Toggler</h1>
+		</div>
+	  <p id="intro-copy">
+			Dark Toggler sits in your macOS menubar and allows you to quickly toggle between dark and light mode with a click.
+	  </p>
+	  <p>
+	  	<img id="menubar" width="239" height="21" src="menubar.png" />
+	  </p>
+	  <p>
+	  	<a id="download-button" href="#">Download Dark Toggler</a>
+	  </p>
+	  <p id="privacy">
+	  	<small>
+				Dark Toggler respects your privacy. We don't collect any analytics from the app or our website.
+			</small>
+	  </p>
+	</main>
+</body>
+</html>
